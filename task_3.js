@@ -27,4 +27,5 @@ function divisible(arr) {
         }
     }
 }
+divisible(100)
 divisible(10)
